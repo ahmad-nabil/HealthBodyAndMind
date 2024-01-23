@@ -1,0 +1,117 @@
+<resources>
+    <string name="app_name">Health body</string>
+    <string name="title_activity_settings">Settings</string>
+    <string name="help"> help </string>
+    <string name="Normal"> Normal </string>
+    <string name="Underweight"> Underweight </string>
+    <string name="Overweight"> Overweight </string>
+    <string name="Obese"> Obese </string>
+    <string name="your_ideal_weight_between"> your ideal weight between </string>
+    <string name="and"> And </string>
+    <string name="age">Age</string>
+    <string name="height">Height in cm</string>
+    <string name="weight">Weight in kg</string>
+    <string name="bmi">Body Mass index</string>
+    <string name="bmr">Basal metabolic rate</string>
+    <string name="step">Step counter</string>
+    <string name="brain">Brain trainer</string>
+    <string name="calorie">Calories you need for activities</string>
+    <string name="calorie_day">Calories/day</string>
+    <string name="none">None (stay in bed all day)</string>
+    <string name="Sedentariness">Sedentariness (very little)</string>
+    <string name="light">Light (1 to 3 days per week) </string>
+    <string name="moderate">Moderate (3 to 5 days per week)</string>
+    <string name="nonstop">Non-Stop</string>
+    <string name="hard">Hard (6 days per week)</string>
+    <string name="steps"> steps  </string>
+    <string name="m"> m </string>
+    <string name="set_goal"> Set Goal </string>
+    <string name="goal"> goal </string>
+    <string name="calorie_burned">Calorie</string>
+    <string name="male"> Male </string>
+    <string name="female"> Female </string>
+    <string name="name"> Name:</string>
+    <string name="changestyle"> Change style to: </string>
+    <string name="lightmode"> light</string>
+    <string name="darkmode"> dark</string>
+    <string name="enter_goal">enter your goal</string>
+    <string name="language"> language : </string>
+    <string name="ARABIC">Arabic</string>
+    <string name="How_i_can_use_it">How i can use it</string>
+    <string name="editinfo">Edit info</string>
+    <string name="reportproplem">Report problem</string>
+    <string name="bmidefine">bmi=body mass index</string>
+    <string name="bmi_uses">use it to find ideal weight , your mass index, and help you to make your life better</string>
+    <string name="bmi_requirment">first you must fill all  requirments as age and height also weight</string>
+    <string name="bmi_calculate">our application will calculate it depend on international equation</string>
+    <string name="bmi_result">be sure this just An estimated value</string>
+    <string name="bmrdefine">bmr=Basal metabolic rate</string>
+    <string name="bmr_uses">use it to find numbers calorie you can burn every day by using Mifflin St Jeor equation </string>
+    <string name="bmr_equations">Mifflin St Jeor equation more accurate than others equations</string>
+    <string name="bmr_calculate">you must fill all your data to calculate your calorie </string>
+    <string name="bmr_result">be sure this just An estimated value</string>
+    <string name="calori_calculator">calorie calculator</string>
+    <string name="calorie_uses">" use it to find numbers calorie you need to do some activity by using  Harris Benedict Equation </string>
+    <string name="calorie_equatios">Harris Benedict Equation is good for calculate calorie do when want do something</string>
+    <string name="calorie_calculate">you must fill all your data to calculate your calorie </string>
+    <string name="calorie_result">be sure this just An estimated value </string>
+    <string name="uses_step">you can use our step counter  to calculate your calorie burned and  number of steps </string>
+    <string name="step_goal">dont forget select your goal till get alarm when finish your goal</string>
+    <string name="step_requirment">you dont need do any thing to turn on step counter just small shake </string>
+    <string name="play">Play</string>
+    <string name="easy">easy</string>
+    <string name="hardlevel">hard</string>
+    <string name="exit">exit</string>
+    <string name="timerfinish">finish timer previous question</string>
+    <string name="correct_from">correct from</string>
+    <string name="first_number">first number</string>
+    <string name="second_number">second number</string>
+    <string name="pleasefillallinformation"> please fill all information </string>
+    <string name="writecorrectinformation">  write your correct information </string>
+    <string name="kilog"> kg </string>
+    <string name="calculate">calculate</string>
+    <string name="welcome">welcome</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="lorem_ipsum">
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam in scelerisque sem. Mauris
+        volutpat, dolor id interdum ullamcorper, risus dolor egestas lectus, sit amet mattis purus
+        dui nec risus. Maecenas non sodales nisi, vel dictum dolor. Class aptent taciti sociosqu ad
+        litora torquent per conubia nostra, per inceptos himenaeos. Suspendisse blandit eleifend
+        diam, vel rutrum tellus vulputate quis. Aliquam eget libero aliquet, imperdiet nisl a,
+        ornare ex. Sed rhoncus est ut libero porta lobortis. Fusce in dictum tellus.\n\n
+        Suspendisse interdum ornare ante. Aliquam nec cursus lorem. Morbi id magna felis. Vivamus
+        egestas, est a condimentum egestas, turpis nisl iaculis ipsum, in dictum tellus dolor sed
+        neque. Morbi tellus erat, dapibus ut sem a, iaculis tincidunt dui. Interdum et malesuada
+        fames ac ante ipsum primis in faucibus. Curabitur et eros porttitor, ultricies urna vitae,
+        molestie nibh. Phasellus at commodo eros, non aliquet metus. Sed maximus nisl nec dolor
+        bibendum, vel congue leo egestas.\n\n
+        Sed interdum tortor nibh, in sagittis risus mollis quis. Curabitur mi odio, condimentum sit
+        amet auctor at, mollis non turpis. Nullam pretium libero vestibulum, finibus orci vel,
+        molestie quam. Fusce blandit tincidunt nulla, quis sollicitudin libero facilisis et. Integer
+        interdum nunc ligula, et fermentum metus hendrerit id. Vestibulum lectus felis, dictum at
+        lacinia sit amet, tristique id quam. Cras eu consequat dui. Suspendisse sodales nunc ligula,
+        in lobortis sem porta sed. Integer id ultrices magna, in luctus elit. Sed a pellentesque
+        est.\n\n
+        Aenean nunc velit, lacinia sed dolor sed, ultrices viverra nulla. Etiam a venenatis nibh.
+        Morbi laoreet, tortor sed facilisis varius, nibh orci rhoncus nulla, id elementum leo dui
+        non lorem. Nam mollis ipsum quis auctor varius. Quisque elementum eu libero sed commodo. In
+        eros nisl, imperdiet vel imperdiet et, scelerisque a mauris. Pellentesque varius ex nunc,
+        quis imperdiet eros placerat ac. Duis finibus orci et est auctor tincidunt. Sed non viverra
+        ipsum. Nunc quis augue egestas, cursus lorem at, molestie sem. Morbi a consectetur ipsum, a
+        placerat diam. Etiam vulputate dignissim convallis. Integer faucibus mauris sit amet finibus
+        convallis.\n\n
+        Phasellus in aliquet mi. Pellentesque habitant morbi tristique senectus et netus et
+        malesuada fames ac turpis egestas. In volutpat arcu ut felis sagittis, in finibus massa
+        gravida. Pellentesque id tellus orci. Integer dictum, lorem sed efficitur ullamcorper,
+        libero justo consectetur ipsum, in mollis nisl ex sed nisl. Donec maximus ullamcorper
+        sodales. Praesent bibendum rhoncus tellus nec feugiat. In a ornare nulla. Donec rhoncus
+        libero vel nunc consequat, quis tincidunt nisl eleifend. Cras bibendum enim a justo luctus
+        vestibulum. Fusce dictum libero quis erat maximus, vitae volutpat diam dignissim.
+    </string>
+
+</resources>
